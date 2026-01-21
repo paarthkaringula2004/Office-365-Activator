@@ -9,3 +9,10 @@ License is Professional Plus 2024 (Infinite Upgrade).
 
 ## Password 
 * alphahax
+
+## Remainder 
+* Trun Off all the Windows Security
+* Windows Defender
+- Real Time Security
+- Core Isolation
+REBOOT THE SYSTEM AND ENSURE THE REAL TIME SECURITY IS TURNED OFF WHILE REBOOT IS COMPLETE.
