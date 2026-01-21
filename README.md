@@ -6,3 +6,6 @@ License is Professional Plus 2024 (Infinite Upgrade).
 ## ⚙️Usage
 * First you need to run this program as an administrator.
 * You must write the number that is written in front of the specific option and click enter.  
+
+## Password 
+* alphahax
