@@ -1,6 +1,5 @@
 # Office 365 Activator (AlphaHax) A utility to help users install, configure, and activate Office 365 using illegal Microsoft licenses.
 
-# Office 365 Activator
 This is my Office 365 Activator Program. You can activate your Office 365 for Free.</br>
 License is Professional Plus 2024 (Infinite Upgrade).
 
