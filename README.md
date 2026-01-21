@@ -10,9 +10,18 @@ License is Professional Plus 2024 (Infinite Upgrade).
 ## Password 
 * alphahax
 
-## Remainder 
-* Trun Off all the Windows Security
-* Windows Defender
-- Real Time Security
-- Core Isolation
-REBOOT THE SYSTEM AND ENSURE THE REAL TIME SECURITY IS TURNED OFF WHILE REBOOT IS COMPLETE.
+## Reminder
+
+Before proceeding, ensure that all Windows security protections are disabled:
+
+- **Windows Security**
+- **Windows Defender**
+  - Real-time protection
+  - Core isolation
+
+### Steps
+
+1. Turn off all the above security features.
+2. Reboot the system.
+3. After reboot, verify that **Real-time protection** remains turned off before continuing.
+
